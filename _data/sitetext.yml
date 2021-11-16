@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Welcome!
-    text: New collection coming soon
+    text: New collection coming!
     button: Tell Me More
     buttonlink: "#services"
 
