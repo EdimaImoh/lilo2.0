@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Coming next:
-    text: MAY 2021
+    title: Welcome!
+    text: New collection coming soon
     button: Tell Me More
     buttonlink: "#services"
 
